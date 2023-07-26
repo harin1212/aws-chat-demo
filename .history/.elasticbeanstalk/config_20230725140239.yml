@@ -1,0 +1,18 @@
+branch-defaults:
+  default:
+    environment: null
+    group_suffix: null
+global:
+  application_name: coredot-chat-demo
+  branch: null
+  default_ec2_keyname: harinkey2
+  default_platform: Python 3.9 running on 64bit Amazon Linux 2023
+  default_region: ap-northeast-2
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: eb-cli
+  repository: chat-demo
+  sc: git
+  workspace_type: Application
